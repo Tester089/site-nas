@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "title": "Постановление №008-DESIT",
+      "description": "ℹ️ Формирование Национальной Академии Наук 'Рассвет'",
+      "url": "https://docs.google.com/document/d/1k4wEv34YQiWvftT-on3CA8ywJzJ4k2AQi4p7C8D-em0/edit?usp=sharing",
+      "tags": ["Постановление", "Устав", "Формирование НАН"]
+    },
+    {
+      "title": "Постановление №009-DESIT",
+      "description": "ℹ️ Укрепление статуса Национальной Академии Наук 'Рассвет'",
+      "url": "https://docs.google.com/document/d/1AfynbXoZbMez-9TT7EglJltploC_7gyGHZ7z8GYid_Q/edit?usp=sharing",
+      "tags": ["Постановление", "Положение"]
+    },
+    {
+      "title": "Постановление №001-NAS",
+      "description": "ℹ️ Утверждение символики, формы документов, а также электронного портала в сети интернет.",
+      "url": "https://docs.google.com/document/d/1ig4IjCpLYa7-Aihf5mYR0HUhYDPzCLgcRWjhcRBubvA/edit?tab=t.0",
+      "tags": ["Постановление", "Символика", "Шаблон Акта"]
+    },
+    {
+      "title": "Постановление №002-NAS",
+      "description": "ℹ️ Создание лучшего обущающего видеоролика в области медицины из любой сферы. Сумма: 2.000.000$ | Тендер от 30.07.2025",
+      "url": "https://docs.google.com/document/d/17uHZ4wFyOeTnDM5m6WIM6QVEs_J9_7LaNdsRAYJWXKo/edit?usp=sharing",
+      "tags": ["Тендер", "Активный", "Медицина"]
+    },
+    {
+      "title": "Постановление №003-NAS",
+      "description": "ℹ️ Пересмотр состава членов Национальной Академии Наук, а также добавление двух новых лиц.",
+      "url": "https://docs.google.com/document/d/1AGRHXLMvTsYrl2BwQ4w0e6iDd1JLgmWXhYunpF8lBv4/edit?usp=sharing",
+      "tags": ["Состав", "Реестр", "Пополнение в команду"]
+    },
+    {
+      "title": "Постановление №005-NAS",
+      "description": "ℹ️ Добавление нового члена в состав Национальной Академии Наук в лице Майкла Фетчера.",
+      "url": "https://docs.google.com/document/d/1XQrJfmBYGQLCnGepqcpcUj_f1B-iksBoUxtHD0QIMqc/edit?usp=sharing",
+      "tags": ["Состав", "Пополнение в команду"]
+    },
+    {
+      "title": "Постановление №006-NAS",
+      "description": "ℹ️ Исключение из членов Национальной Академии Наук “Рассвет”, а именно Пауля Эрнеста.",
+      "url": "https://docs.google.com/document/d/1qRBCglpht2-qayLxNdstwvjQB8kWcBjWYytnIA0MuBE/edit?usp=sharing",
+      "tags": ["Состав", "Отряд не заметил потери бойца..."]
+    }
+  ]
+}

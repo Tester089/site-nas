@@ -2,4 +2,4 @@
 Любительский сайт под проект научной организации
 
 
-[[LINL]](https://nus-atlant-world.neocities.org/)
+[[LINK]](https://nus-atlant-world.neocities.org/)

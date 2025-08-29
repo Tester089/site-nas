@@ -78,4 +78,5 @@ export const WindowManager = {
             openWindows.delete(id);
         }
     }
+
 };
